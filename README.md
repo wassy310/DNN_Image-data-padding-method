@@ -1,0 +1,2 @@
+# DNN_increased_data
+DNNで使える画像データ水増し手法
