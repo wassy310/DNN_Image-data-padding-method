@@ -1,4 +1,5 @@
-# DNN_increased_data
+# DNN_Image data padding method
+
 Image data padding methods that can be used with DNN.
 
 ## Directory
